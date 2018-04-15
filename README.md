@@ -1,2 +1,2 @@
-# Create react and redux demo
+# Created react and redux demo
 
