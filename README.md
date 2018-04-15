@@ -1,4 +1,7 @@
-# Created react and redux demo
+# Created react and redux demo 
+
+[![Author](https://img.shields.io/badge/Author-Vipul%20Patel-yellowgreen.svg)]()
+[![Version](https://img.shields.io/badge/Version-0.0.1-red.svg)]()
 
 ## Quick Start
 1. `npm install || yarn install`
