@@ -1,8 +1,8 @@
 # Created react and redux demo
 
 ## Quick Start
-1. `yarn install`
-2. `yarn start` 
+1. `npm install || yarn install`
+2. `npm start || yarn start` 
 3. Open <http://localhost:3000>
 
 ## Developers and collabs
@@ -16,7 +16,7 @@ If you want to run the latest code from git, here's how to get started:
 
 2. Install dependencies
 
-        npm install || yarn install (You can also use Yarn) 
+        npm install || yarn install
 
 3. Build the code
 
